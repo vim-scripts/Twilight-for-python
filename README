@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3781
+
+The color scheme tries to replicate the same theme from Textmate, especially for Python.
+
+It is modified based on famous Jellybeans scheme.
+
+To fully utilize this scheme, a enhanced python.vim syntax is required, which can be found at
+
+http://www.vim.org/scripts/script.php?script_id=3782
